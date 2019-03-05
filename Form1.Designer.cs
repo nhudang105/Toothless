@@ -36,21 +36,21 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(78, 62);
+            this.textBox1.Location = new System.Drawing.Point(52, 34);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(330, 22);
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 0;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(78, 106);
+            this.textBox2.Location = new System.Drawing.Point(52, 86);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(330, 22);
+            this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(333, 147);
+            this.button1.Location = new System.Drawing.Point(162, 127);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -60,7 +60,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(75, 150);
+            this.label1.Location = new System.Drawing.Point(49, 133);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 17);
             this.label1.TabIndex = 2;
@@ -70,7 +70,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(436, 181);
+            this.ClientSize = new System.Drawing.Size(282, 255);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
@@ -90,4 +90,3 @@
         private System.Windows.Forms.Label label1;
     }
 }
-
