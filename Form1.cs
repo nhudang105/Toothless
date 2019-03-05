@@ -16,6 +16,7 @@ namespace nhudang
             InitializeComponent();
         }
 
+
         private void Form1_Load(object sender, EventArgs e)
         {
             
@@ -26,6 +27,7 @@ namespace nhudang
             int a = int.Parse(textBox1.Text);
             int b = int.Parse(textBox2.Text);
             int d = a + b;
+
         }
     }
 }
